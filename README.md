@@ -44,7 +44,24 @@ This project therefore focuses on **deep learning–based classification of knee
 2. Design a CNN-based pipeline for classifying knee X-ray images related to bone health  
 3. Apply **transfer learning** with pretrained CNN architectures to improve performance on limited medical data  
 4. Evaluate and compare model performance using standard classification metrics  
-5. Discuss the feasibility of a low-cost, X-ray–based early screening system  
+5. Discuss the feasibility of a low-cost, X-ray–based early screening system
+
+---
+
+## Learning Outcomes
+
+This thesis provided practical, hands-on experience in medical AI and deep learning:
+
+- **Linear Models**: Understanding how linear models work and their role in machine learning
+- **Deep Learning**: Grasping the fundamentals of deep learning and neural network construction
+- **Neural Networks**: Building Artificial Neural Networks (ANNs) from scratch
+- **Convolutional Neural Networks (CNNs)**: Mastering CNNs for image classification tasks
+- **Dataset Validation**: Learning how to validate image datasets for CNN training
+- **Image Preprocessing**: Resizing and normalizing images of varying sizes to consistent dimensions
+- **Dataset Aggregation**: Combining multiple public datasets to enhance training diversity
+- **Data Augmentation**: Applying augmentation techniques to improve model robustness and generalization
+- **Hyperparameter Tuning**: Tuning models with different optimizers and layer configurations
+- **Public Datasets**: Working with and validating public datasets for reproducible research
 
 ---
 
